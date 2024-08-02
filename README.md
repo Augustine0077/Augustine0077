@@ -4,7 +4,7 @@
 - 👀 I’m interested in machine learning, data science, and software development.
 - 🌱 I’m currently learning advanced machine learning algorithms and cloud computing with Google Cloud Platform.
 - 💞️ I’m looking to collaborate on open-source projects, particularly those related to data science and AI.
-- 📫 How to reach me: You can reach me via email at augustine0077@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/augustine0077).
+- 📫 How to reach me: You can reach me via email at augustine007@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/augustine0077).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen.
 
