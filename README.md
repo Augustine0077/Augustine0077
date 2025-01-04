@@ -1,8 +1,8 @@
-# Hi there, I'm Augustine! 👋
+# Hi there, I'm Augustine Shaji! 👋
 
 ## About Me
 - 👀 I’m interested in machine learning, data science, and software development.
-- 🌱 I’m currently learning advanced machine learning algorithms and cloud computing with Google Cloud Platform.
+- 🌱 I’m currently pushing Data science course in St.Joseph's College Moolamattom.
 - 💞️ I’m looking to collaborate on open-source projects, particularly those related to data science and AI.
 - 📫 How to reach me: You can reach me via email at augustine007@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/augustine-shaji-389b8b221/).
 - 😄 Pronouns: He/Him
@@ -10,7 +10,6 @@
 
 ## My Interests
 - **Machine Learning**: I'm passionate about using data to solve real-world problems. I'm currently working on a diabetes prediction project using various machine learning algorithms such as Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors, and Support Vector Machine.
-- **Cloud Computing**: I'm interested in leveraging cloud platforms to build scalable and efficient applications. I'm actively exploring the Google Cloud Ready Facilitator Program organized by the Developer Student Clubs at the College of Engineering Thalassery.
 - **Open Source**: I believe in the power of open-source software and enjoy contributing to projects that make a difference.
 
 ## Let's Connect!
