@@ -4,15 +4,15 @@
 
 ---
 
-<!-- GITHUB STATS & LANGUAGE CARDS -->
+<!-- GITHUB STATS & LANGUAGE CARDS (FIXED MIRROR) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Augustine0077&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustine0077&layout=compact&theme=radical&hide_border=false" height="180em" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Augustine0077&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180em" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Augustine0077&layout=compact&theme=radical&hide_border=false" height="180em" />
 </p>
 
 ---
 
-<!-- GITHUB STREAK STATS -->
+<!-- GITHUB STREAK -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Augustine0077&theme=radical&hide_border=false" height="180em" />
 </p>
@@ -36,16 +36,16 @@
 ### 🌱 I’ve honed my skills in...
 - 🧠 **Data Science and Machine Learning**
 - 🎓 Completed **Data Science & ML course** at *Entri Elevate*  
-- 🔍 Skilled in **data analysis, model building, and software design**
-- 💡 Love building intelligent, customer-focused software solutions  
+- 🔍 Skilled in **data analysis, predictive modeling, and software design**
+- 💡 Passionate about turning ideas into impactful real-world solutions  
 
 ---
 
 ### 💞️ I’m eager to collaborate with...
 Developers and data enthusiasts who share a passion for:
-- 🤖 Building impactful machine learning models  
-- ⚙️ Designing scalable and reliable software systems  
-- 🌍 Solving complex real-world problems through data  
+- 🤖 Building intelligent machine learning models  
+- ⚙️ Designing scalable, reliable software systems  
+- 🌍 Solving real-world challenges through data  
 
 ---
 
