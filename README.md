@@ -1,22 +1,69 @@
-# Hi there, I'm Augustine Shaji! 👋
+# 👋 Hi there, I'm Augustine Shaji!
 
-## About Me
-- 👀 I’m interested in machine learning, data science, and software development.
-- 🌱 I’m currently pushing Data science course in St.Joseph's College Moolamattom.
-- 💞️ I’m looking to collaborate on open-source projects, particularly those related to data science and AI.
-- 📫 How to reach me: You can reach me via email at augustine007@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/augustine-shaji-389b8b221/).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not coding, you can find me exploring new hiking trails or experimenting with new recipes in the kitchen.
+🎓 **Integrated M.Sc. Data Science Student | Aspiring Software Engineer | Data Scientist**
 
-## My Interests
-- **Machine Learning**: I'm passionate about using data to solve real-world problems. I'm currently working on a diabetes prediction project using various machine learning algorithms such as Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors, and Support Vector Machine.
-- **Open Source**: I believe in the power of open-source software and enjoy contributing to projects that make a difference.
+---
 
-## Let's Connect!
-Feel free to reach out if you'd like to collaborate on a project, need help with anything, or just want to chat about tech and innovation.
+### 👀 About Me
+- 🔍 I'm deeply interested in **Machine Learning**, **Data Science**, and **Software Development**.  
+- 🌱 Currently pursuing **Integrated M.Sc. in Data Science** at *St. Joseph’s College, Moolamattom* (Affiliated with Mahatma Gandhi University).  
+- 💡 I love building data-driven applications that solve **real-world problems**.  
+- 💞️ Open to collaborating on **AI, Python, or open-source projects**.  
+- 📫 Reach me at **[augustineshaji007@gmail.com](mailto:augustineshaji007@gmail.com)** or connect on [**LinkedIn**](https://www.linkedin.com/in/augustine-shaji).  
+- ⚡ **Fun Fact:** When I’m not coding, I’m probably exploring new tech tools or trying a new recipe in the kitchen!
 
+---
 
-<!---
-Augustine0077/Augustine0077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧰 Languages and Tools
+| Languages | Tools / Frameworks |
+|------------|--------------------|
+| 🐍 Python | 🌐 Flask / Django |
+| ☕ Java | 🧠 TensorFlow / PyTorch |
+| 💻 C / C++ | 📊 Pandas / NumPy / Matplotlib / Scikit-Learn |
+| 💾 SQL / MySQL | 🧩 Jupyter / VS Code / PyCharm |
+| 🌍 HTML / CSS / JavaScript | ☁️ AWS / Git / GitHub / Linux |
+
+---
+
+### 🌟 My Interests
+- 🤖 **Machine Learning & AI:** building intelligent systems that learn from data.  
+- 💻 **Software Development:** creating efficient and scalable applications.  
+- 📊 **Data Visualization:** turning raw numbers into meaningful insights.  
+- 🧠 **Open Source:** contributing to projects that empower communities.
+
+---
+
+### 🧪 Highlight Projects
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| 💡 **Smart Classroom Attendance System** | Face-recognition attendance system using OpenCV and Flask. | Python, Flask, OpenCV |
+| 📊 **COVID-19 Data Dashboard** | Interactive visualization of global COVID-19 data trends. | Python, Pandas, Tableau |
+| 💬 **SentimentSpectrum** | Real-time sentiment analysis of Amazon product reviews. | Python, NLP, TF-IDF |
+| 🎵 **AuraTunes** | Mood-based music recommender app. | Python, Streamlit, Spotify API |
+
+---
+
+### 🔥 Tools & Technologies
+`Python` `Flask` `Django` `Pandas` `NumPy` `Matplotlib` `Scikit-Learn`  
+`TensorFlow` `PyTorch` `Selenium` `SQLite` `Git` `Linux` `Jupyter` `Anaconda`
+
+---
+
+### 💞️ Let’s Collaborate!
+I’m eager to work with like-minded developers and data enthusiasts on:
+- 🧩 Building impactful machine learning models  
+- 🌍 Solving real-world problems using data  
+- 🤝 Creating scalable and user-friendly software solutions  
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Augustine%20Shaji-blue?logo=linkedin)](https://www.linkedin.com/in/augustine-shaji)
+[![GitHub](https://img.shields.io/badge/GitHub-Augustine0077-black?logo=github)](https://github.com/Augustine0077)
+[![Gmail](https://img.shields.io/badge/Email-augustineshaji007%40gmail.com-red?logo=gmail)](mailto:augustineshaji007@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?logo=google-chrome)](#)
+
+---
+
+### ⚡ Fun Fact
+> “I believe curiosity is the spark that powers innovation — keep learning, keep building.” 🌟
