@@ -1,10 +1,10 @@
-<!-- Header -->
+<!-- HEADER -->
 <h1 align="center">👋 Hello, I'm Augustine Shaji</h1>
 <h3 align="center">Software Engineer | Python Developer | Data Scientist</h3>
 
 ---
 
-<!-- GitHub Stats and Language Graph -->
+<!-- GITHUB STATS & LANGUAGE CARDS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Augustine0077&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustine0077&layout=compact&theme=radical&hide_border=false" height="180em" />
@@ -12,30 +12,40 @@
 
 ---
 
+<!-- GITHUB STREAK STATS -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Augustine0077&theme=radical&hide_border=false" height="180em" />
+</p>
+
+---
+
+<!-- TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Augustine0077&theme=radical&no-frame=false&no-bg=true&margin-w=5" />
+</p>
+
+---
+
 ### 👀 I’m fascinated by...
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql&theme=dark" />
 </p>
 
 ---
 
 ### 🌱 I’ve honed my skills in...
-- Data Science and Machine Learning  
-- Completed **Data Science & Machine Learning course** at *Entri Elevate*  
-- Hands-on with predictive modeling, visualization, and data-driven applications  
+- 🧠 **Data Science and Machine Learning**
+- 🎓 Completed **Data Science & ML course** at *Entri Elevate*  
+- 🔍 Skilled in **data analysis, model building, and software design**
+- 💡 Love building intelligent, customer-focused software solutions  
 
 ---
 
 ### 💞️ I’m eager to collaborate with...
-Like-minded developers and data enthusiasts who share a passion for:
-- 🧠 Building impactful machine learning models  
-- 🌍 Solving complex real-world challenges through data  
-- 💡 Developing scalable, customer-centric applications  
-
----
-
-### ⚡ Fun Fact
-I'm a lifelong learner who believes **curiosity and continuous learning** unlock endless possibilities. 🌟
+Developers and data enthusiasts who share a passion for:
+- 🤖 Building impactful machine learning models  
+- ⚙️ Designing scalable and reliable software systems  
+- 🌍 Solving complex real-world problems through data  
 
 ---
 
@@ -46,6 +56,29 @@ I'm a lifelong learner who believes **curiosity and continuous learning** unlock
 
 ---
 
+### 🖼️ My Projects
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| 🧠 **Smart Classroom Attendance System** | Face recognition-based attendance automation system | Python, Flask, OpenCV |
+| 💬 **SentimentSpectrum** | Real-time sentiment analysis for Amazon product reviews | Python, NLP, TF-IDF |
+| 🎵 **AuraTunes** | Mood-based music recommender system | Python, Streamlit, Spotify API |
+| 📊 **COVID-19 Dashboard** | Interactive visualization of global COVID-19 data | Python, Pandas, Tableau |
+
+---
+
+### 🏆 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Augustine0077&theme=react-dark&hide_border=false" width="95%"/>
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I believe **curiosity and continuous learning** unlock endless possibilities. 🌟  
+> When I'm not coding, you’ll find me exploring new hiking trails or experimenting with recipes.
+
+---
+
 ### 📫 How to Reach Me
 <p align="center">
   <a href="mailto:augustineshaji007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -53,15 +86,6 @@ I'm a lifelong learner who believes **curiosity and continuous learning** unlock
   <a href="https://github.com/Augustine0077"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-green?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
-
----
-
-### 🖼️ My Projects
-🌟 Explore some of my noteworthy works:
-- 🧠 **Adlux Connect:** Healthcare chatbot using NLP and Flask  
-- 💬 **SentimentSpectrum:** Real-time sentiment analysis of product reviews  
-- 🎵 **AuraTunes:** Mood-based music recommender using Python  
-- 👁️ **Smart Attendance System:** Face recognition-based attendance app  
 
 ---
 
