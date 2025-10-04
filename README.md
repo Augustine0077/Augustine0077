@@ -1,69 +1,70 @@
-# 👋 Hi there, I'm Augustine Shaji!
-
-🎓 **Integrated M.Sc. Data Science Student | Aspiring Software Engineer | Data Scientist**
-
----
-
-### 👀 About Me
-- 🔍 I'm deeply interested in **Machine Learning**, **Data Science**, and **Software Development**.  
-- 🌱 Currently pursuing **Integrated M.Sc. in Data Science** at *St. Joseph’s College, Moolamattom* (Affiliated with Mahatma Gandhi University).  
-- 💡 I love building data-driven applications that solve **real-world problems**.  
-- 💞️ Open to collaborating on **AI, Python, or open-source projects**.  
-- 📫 Reach me at **[augustineshaji007@gmail.com](mailto:augustineshaji007@gmail.com)** or connect on [**LinkedIn**](https://www.linkedin.com/in/augustine-shaji).  
-- ⚡ **Fun Fact:** When I’m not coding, I’m probably exploring new tech tools or trying a new recipe in the kitchen!
+<!-- Header -->
+<h1 align="center">👋 Hello, I'm Augustine Shaji</h1>
+<h3 align="center">Software Engineer | Python Developer | Data Scientist</h3>
 
 ---
 
-### 🧰 Languages and Tools
-| Languages | Tools / Frameworks |
-|------------|--------------------|
-| 🐍 Python | 🌐 Flask / Django |
-| ☕ Java | 🧠 TensorFlow / PyTorch |
-| 💻 C / C++ | 📊 Pandas / NumPy / Matplotlib / Scikit-Learn |
-| 💾 SQL / MySQL | 🧩 Jupyter / VS Code / PyCharm |
-| 🌍 HTML / CSS / JavaScript | ☁️ AWS / Git / GitHub / Linux |
+<!-- GitHub Stats and Language Graph -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Augustine0077&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustine0077&layout=compact&theme=radical&hide_border=false" height="180em" />
+</p>
 
 ---
 
-### 🌟 My Interests
-- 🤖 **Machine Learning & AI:** building intelligent systems that learn from data.  
-- 💻 **Software Development:** creating efficient and scalable applications.  
-- 📊 **Data Visualization:** turning raw numbers into meaningful insights.  
-- 🧠 **Open Source:** contributing to projects that empower communities.
+### 👀 I’m fascinated by...
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,mysql&theme=dark" />
+</p>
 
 ---
 
-### 🧪 Highlight Projects
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| 💡 **Smart Classroom Attendance System** | Face-recognition attendance system using OpenCV and Flask. | Python, Flask, OpenCV |
-| 📊 **COVID-19 Data Dashboard** | Interactive visualization of global COVID-19 data trends. | Python, Pandas, Tableau |
-| 💬 **SentimentSpectrum** | Real-time sentiment analysis of Amazon product reviews. | Python, NLP, TF-IDF |
-| 🎵 **AuraTunes** | Mood-based music recommender app. | Python, Streamlit, Spotify API |
+### 🌱 I’ve honed my skills in...
+- Data Science and Machine Learning  
+- Completed **Data Science & Machine Learning course** at *Entri Elevate*  
+- Hands-on with predictive modeling, visualization, and data-driven applications  
 
 ---
 
-### 🔥 Tools & Technologies
-`Python` `Flask` `Django` `Pandas` `NumPy` `Matplotlib` `Scikit-Learn`  
-`TensorFlow` `PyTorch` `Selenium` `SQLite` `Git` `Linux` `Jupyter` `Anaconda`
-
----
-
-### 💞️ Let’s Collaborate!
-I’m eager to work with like-minded developers and data enthusiasts on:
-- 🧩 Building impactful machine learning models  
-- 🌍 Solving real-world problems using data  
-- 🤝 Creating scalable and user-friendly software solutions  
-
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Augustine%20Shaji-blue?logo=linkedin)](https://www.linkedin.com/in/augustine-shaji)
-[![GitHub](https://img.shields.io/badge/GitHub-Augustine0077-black?logo=github)](https://github.com/Augustine0077)
-[![Gmail](https://img.shields.io/badge/Email-augustineshaji007%40gmail.com-red?logo=gmail)](mailto:augustineshaji007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green?logo=google-chrome)](#)
+### 💞️ I’m eager to collaborate with...
+Like-minded developers and data enthusiasts who share a passion for:
+- 🧠 Building impactful machine learning models  
+- 🌍 Solving complex real-world challenges through data  
+- 💡 Developing scalable, customer-centric applications  
 
 ---
 
 ### ⚡ Fun Fact
-> “I believe curiosity is the spark that powers innovation — keep learning, keep building.” 🌟
+I'm a lifelong learner who believes **curiosity and continuous learning** unlock endless possibilities. 🌟
+
+---
+
+### 🔥 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,pandas,numpy,matplotlib,sklearn,pytorch,tensorflow,selenium,sqlite,git,linux,pycharm,jupyter,anaconda&theme=dark" />
+</p>
+
+---
+
+### 📫 How to Reach Me
+<p align="center">
+  <a href="mailto:augustineshaji007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/augustine-shaji"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Augustine0077"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-green?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+---
+
+### 🖼️ My Projects
+🌟 Explore some of my noteworthy works:
+- 🧠 **Adlux Connect:** Healthcare chatbot using NLP and Flask  
+- 💬 **SentimentSpectrum:** Real-time sentiment analysis of product reviews  
+- 🎵 **AuraTunes:** Mood-based music recommender using Python  
+- 👁️ **Smart Attendance System:** Face recognition-based attendance app  
+
+---
+
+<p align="center">
+  🌟 Let's build the future together! 🌟  
+</p>
