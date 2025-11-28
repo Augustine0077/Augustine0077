@@ -30,6 +30,17 @@ I'm a passionate data scientist and Python developer with expertise in machine l
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Augustine0077&theme=react&hide_border=true&stroke=0&background=transparent"/>
+</div>## 📊 GitHub Statistics
+
+<div align="center">
+  <img alt="Augustine's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Augustine0077&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustine0077&layout=compact&theme=react&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Augustine0077&theme=react&hide_border=true&stroke=0&background=transparent" />
 </div>
 
 ---
