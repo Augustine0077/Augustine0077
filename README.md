@@ -13,7 +13,7 @@ I'm a passionate data scientist and Python developer with expertise in machine l
 
 - 🔬 Specialized in **Machine Learning & Predictive Modeling**
 - 💻 Proficient in **Python, Data Analysis, and NLP**
-- 🎓 Persuing **Integrated M.Sc Data Science  course** at St.Joseph's College Moolamattom 
+- 🎓 Pursuing **Integrated M.Sc Data Science  course** at St.Joseph's College Moolamattom 
 - 🚀 Building real-world projects combining ML and software development
 - 🌍 Actively seeking internship opportunities in **Data Analytics & Python Development**
 
