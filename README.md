@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
   <h1>Hi 👋, I'm Augustine Shaji</h1>
-  <h3>Full-Stack Data Scientist | Python Developer | ML Enthusiast</h3>
+  <h3>Full-Stack Developer | Data Analyst | Data Scientist | Python Developer | ML Enthusiast</h3>
   <p><b>Building intelligent solutions to solve real-world challenges through data science and software engineering</b></p>
 </div>
 
@@ -37,7 +37,7 @@ I'm a passionate data scientist and Python developer with expertise in machine l
 ## 🛠️ Technical Skills
 
 **Languages & Frameworks:**
-- Python (Advanced), Java, C, C++, JavaScript
+- Python (Advanced), Java, C, C++, JavaScript, HTML, CSS
 - Django, Flask, Streamlit
 
 **Data Science & ML:**
